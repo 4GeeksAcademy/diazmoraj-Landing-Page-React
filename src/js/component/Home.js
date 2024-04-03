@@ -5,6 +5,7 @@ import Card from "./Card";
 import Jumbotron from "./Jumbotron";
 
 const Home = () => {
+	
 	return (
 		<>
 			<Navbar />
